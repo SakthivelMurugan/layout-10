@@ -48,24 +48,27 @@
 	height:60px;
 	width:100px;
 	background-color:red;
-	margin:5px;
-	margin-left:460px;
+	margin:0px auto;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 .one .split1 .split11 .split111 .dark
 {
 	height:30px;
 	width:150px;
 	background-color:white;
-	margin:10px;
-	margin-left:430px;
+	margin:0px auto;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 .one .split1 .split11 .split111 .text
 {
 	height:20px;
 	width:50px;
 	background-color:white;
-	margin:10px;
-	margin-left:480px;
+	margin:0px auto;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 .one .split1 .split11 .split112
 {
